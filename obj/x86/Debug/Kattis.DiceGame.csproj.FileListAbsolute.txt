@@ -1,0 +1,5 @@
+/Users/osmankaya/Projects/Kattis/bin/Debug/Kattis.exe
+/Users/osmankaya/Projects/Kattis/bin/Debug/Kattis.pdb
+/Users/osmankaya/Projects/Kattis/obj/x86/Debug/Kattis.DiceGame.csproj.CoreCompileInputs.cache
+/Users/osmankaya/Projects/Kattis/obj/x86/Debug/Kattis.exe
+/Users/osmankaya/Projects/Kattis/obj/x86/Debug/Kattis.pdb
